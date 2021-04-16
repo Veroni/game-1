@@ -1,2 +1,2 @@
-# game-1
-A simple game
+# Game #1
+A simple Python3 game
