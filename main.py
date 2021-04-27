@@ -3,6 +3,7 @@
 
 from tkinter import *
 
+#Adding a window for the game
 tk = Tk()
 tk.title("Game#1")
 tk.resizable(0, 0)
